@@ -1,0 +1,27 @@
+{
+  "name": "staticgen",
+  "version": "1.0.0",
+  "description": "staticgen.com clone",
+  "main": "index.html",
+  "dependencies": {
+    "vue": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitclaw/staticgen.git"
+  },
+  "keywords": [
+    "staticgen",
+    "vuejs"
+  ],
+  "author": "Daniel Chavez <bitclaw@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitclaw/staticgen/issues"
+  },
+  "homepage": "https://github.com/bitclaw/staticgen#readme"
+}
